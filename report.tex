@@ -23,9 +23,12 @@
 \documentclass[12pt,a4paper]{report}
 \usepackage[pdftex]{graphicx} %for embedding images
 \usepackage{url} %for proper url entries
-\usepackage[bookmarks, colorlinks=false, pdfborder={0 0 0}, pdftitle={<pdf title here>}, pdfauthor={Athan L Clark}, pdfsubject={Report}, pdfkeywords={USMC}]{hyperref} %for creating links in the pdf version and other additional pdf attributes, no effect on the printed document
+\usepackage[bookmarks, colorlinks=false, pdfborder={0 0 0}, pdftitle={Short and Long Term Goals}, pdfauthor={Athan L Clark}, pdfsubject={Report}, pdfkeywords={USMC}]{hyperref} %for creating links in the pdf version and other additional pdf attributes, no effect on the printed document
 %\usepackage[final]{pdfpages} %for embedding another pdf, remove if not required
 \usepackage{titlesec}
+\usepackage{enumitem,amssymb}
+\newlist{todolist}{itemize}{2}
+\setlist[todolist]{label=$\square$}
 
 \titleformat{\chapter}[hang]
   {\Large\bfseries}{\thechapter}{0.5em}{}
@@ -44,8 +47,11 @@
 
 \input{summary} %objective changed to problem definition
 \input{introduction} %literature survey included in this
-\input{story}
 \input{conclusion}
 \input{ref}
+\input{weeklygoals}
+\input{monthlygoals}
+\input{quarterlygoals}
+\input{yearlygoals}
 
 \end{document}

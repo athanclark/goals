@@ -1,24 +1,52 @@
 \contentsline {chapter}{\numberline {1}Summary}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}Outline}{2}{chapter.2}
-\contentsline {section}{\numberline {2.1}Context}{2}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}<any sub section here>}{2}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}<related material>}{2}{subsection.2.1.2}
-\contentsline {subsubsection}{<Sub-subsection title>}{2}{subsection.2.1.2}
-\contentsline {subsubsection}{<Sub-subsection title>}{2}{subsection.2.1.2}
-\contentsline {section}{\numberline {2.2}Setting}{2}{section.2.2}
-\contentsline {section}{\numberline {2.3}Characters}{2}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Lieutenant General Lord Wellington}{2}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}General Craufurd}{2}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Rifleman Matthew Dodd}{2}{subsection.2.3.3}
-\contentsline {section}{\numberline {2.4}Events}{2}{section.2.4}
-\contentsline {section}{\numberline {2.5}Consequences}{2}{section.2.5}
-\contentsline {chapter}{\numberline {3}Story}{3}{chapter.3}
-\contentsline {section}{\numberline {3.1}Events}{3}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}<Sub-section title>}{3}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}<Sub-section title>}{3}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}<Sub-section title>}{3}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}<Sub-section title>}{3}{subsection.3.1.4}
-\contentsline {subsection}{\numberline {3.1.5}<Sub-section title>}{3}{subsection.3.1.5}
-\contentsline {section}{\numberline {3.2}Lessons}{3}{section.3.2}
-\contentsline {chapter}{\numberline {4}Conclusion}{4}{chapter.4}
-\contentsline {chapter}{References}{5}{section*.2}
+\contentsline {section}{\numberline {1.1}``What type of Marine do you want to be?"}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}List your goals for your USMC tenure}{3}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}What type of Marine do you want to be?}{3}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Control your Impression}{3}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}SMART Goals; Short Term and Long Term}{4}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}Define your path to better yourself}{4}{subsection.1.1.5}
+\contentsline {subsection}{\numberline {1.1.6}What kind of Corps do you want to serve?}{4}{subsection.1.1.6}
+\contentsline {subsection}{\numberline {1.1.7}What do you want to accomplish?}{5}{subsection.1.1.7}
+\contentsline {subsection}{\numberline {1.1.8}Put down the dream-killers --- what are they?}{5}{subsection.1.1.8}
+\contentsline {subsection}{\numberline {1.1.9}A marathon is a product of individual steps}{5}{subsection.1.1.9}
+\contentsline {subsection}{\numberline {1.1.10}Be as productive as possible --- get immersed in your job \textit {first}}{5}{subsection.1.1.10}
+\contentsline {subsection}{\numberline {1.1.11}If you waste your potential, you let \textbf {yourself} down}{5}{subsection.1.1.11}
+\contentsline {subsection}{\numberline {1.1.12}What have you already done to get to your goals?}{6}{subsection.1.1.12}
+\contentsline {subsection}{\numberline {1.1.13}What will you sacrifice? And what is practical?}{6}{subsection.1.1.13}
+\contentsline {subsection}{\numberline {1.1.14}How can you work with others to help you get to your goals?}{6}{subsection.1.1.14}
+\contentsline {subsection}{\numberline {1.1.15}How will you manage your time requirements?}{6}{subsection.1.1.15}
+\contentsline {subsection}{\numberline {1.1.16}What are good starter goals, to get familiar with the process?}{6}{subsection.1.1.16}
+\contentsline {subsection}{\numberline {1.1.17}How will you pace yourself and not sacrifice the wrong things?}{7}{subsection.1.1.17}
+\contentsline {subsection}{\numberline {1.1.18}Earn your reputation}{7}{subsection.1.1.18}
+\contentsline {subsection}{\numberline {1.1.19}Pay your dues}{7}{subsection.1.1.19}
+\contentsline {subsection}{\numberline {1.1.20}What books could you read to improve this process?}{7}{subsection.1.1.20}
+\contentsline {subsection}{\numberline {1.1.21}What books should you read regardless?}{7}{subsection.1.1.21}
+\contentsline {subsection}{\numberline {1.1.22}You either have ``it", or you don't. Set the expectation that others should strive to have}{7}{subsection.1.1.22}
+\contentsline {subsection}{\numberline {1.1.23}What long term goals have value that's difficult to measure?}{7}{subsection.1.1.23}
+\contentsline {subsection}{\numberline {1.1.24}How will you revise your goals regularly?}{8}{subsection.1.1.24}
+\contentsline {subsection}{\numberline {1.1.25}Your decisions \textbf {are} your dues}{8}{subsection.1.1.25}
+\contentsline {subsection}{\numberline {1.1.26}Accomplish what you're told}{8}{subsection.1.1.26}
+\contentsline {subsection}{\numberline {1.1.27}Ask for permission and sympathy when appropriate}{8}{subsection.1.1.27}
+\contentsline {subsection}{\numberline {1.1.28}You do not need your hand held}{8}{subsection.1.1.28}
+\contentsline {subsection}{\numberline {1.1.29}Take an English 1 \& 2 course (eventually)}{8}{subsection.1.1.29}
+\contentsline {subsection}{\numberline {1.1.30}Planning is \textit {key}}{8}{subsection.1.1.30}
+\contentsline {chapter}{\numberline {2}Primary Concerns}{9}{chapter.2}
+\contentsline {chapter}{\numberline {3}Context}{10}{chapter.3}
+\contentsline {section}{\numberline {3.1}<any sub section here>}{10}{section.3.1}
+\contentsline {section}{\numberline {3.2}<related material>}{10}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}<Sub-subsection title>}{10}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}<Sub-subsection title>}{10}{subsection.3.2.2}
+\contentsline {chapter}{\numberline {4}What do I Want?}{11}{chapter.4}
+\contentsline {chapter}{\numberline {5}Characteristics}{12}{chapter.5}
+\contentsline {chapter}{\numberline {6}Principals}{13}{chapter.6}
+\contentsline {chapter}{\numberline {7}Consequences}{14}{chapter.7}
+\contentsline {chapter}{\numberline {8}Conclusion}{15}{chapter.8}
+\contentsline {chapter}{References}{16}{section*.2}
+\contentsline {chapter}{\numberline {9}Weekly Goals}{17}{chapter.9}
+\contentsline {section}{\numberline {9.1}20200420}{17}{section.9.1}
+\contentsline {chapter}{\numberline {10}Monthly Goals}{18}{chapter.10}
+\contentsline {section}{\numberline {10.1}April 2020}{18}{section.10.1}
+\contentsline {chapter}{\numberline {11}Quarterly Goals}{19}{chapter.11}
+\contentsline {section}{\numberline {11.1}April --- June 2020}{19}{section.11.1}
+\contentsline {chapter}{\numberline {12}Yearly Goals}{20}{chapter.12}
+\contentsline {section}{\numberline {12.1}2020}{20}{section.12.1}
