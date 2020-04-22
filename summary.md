@@ -333,3 +333,6 @@ important people.
 This is what will set you apart from everyone else, who will waste their
 time doing dumb shit. Making a plan, and sticking to that plan, will
 help you grow as a person, and as a Marine.
+
+
+[Next Page](./introduction.md)
