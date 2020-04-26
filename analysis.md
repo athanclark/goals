@@ -133,5 +133,66 @@ Personal
 Doing things well is a good trait, but knowing that you're doing the
 right thing is a step closer to wisdom.
 
+- I'd like to build and own a company some day. What that company is
+  and does, however, that is up for debate. But, I've been striving to
+  do so for a very long time, and I have the potential to make it a reality;
+  it would be a shame to miss out on an opportunity to do so.
+- However, before I shoot for the stars, I need to ground myself and build
+  a solid foundation - I need to do the following before anything else:
+
+  - pay off my debt - I don't have much left, but in order for me to finance
+    anything, I'll need to file for personal loans, and that won't be practical
+    or possible without a good credit score. After this, I'll open a credit card,
+    and further my credit development.
+  - get a car - Relying on a bicycle will be good exercise, and decent free travel -
+    but for anything large-scale, it's not practical.
+  - get a formal education - potentially a certification (i.e., CompTIA, something
+    COOL compatible), and an associates degree.
+  - take English 1 & 2
+
+- Set up a personal Gantt chart - both time-dependent, and independent
+  
+  - learning more about project management may help here - Agile and PMI may
+    provide valuable utility.
+    
+- Meditate and build a more robust self-value - not in the sense of confidence
+  or anything like that, but rather build habits and discipline that makes
+  you proud of yourself; so you can be sure you didn't let yourself down.
+  Maybe schedule self-help sessions.
+- Determine how far you've come - do an audit of your past; your failures,
+  and equally importantly, your successes. Figure out how you can utilize your
+  habits to build a better future.
+- Determine what is required of you on a time-based schedule, and decide what is worth
+  sacrificing; putting off what can be delayed, and what is required and not optional.
+- Determine what moderate goals, as extracurricular non-precedent activities, could be
+  integrated into my goal-planning lifestyle to better acclimate to the scheduling
+  techniques.
+- Read "making friends and influencing people", in addition to many others - make my
+  own reading list, and abide by it. Furthermore, as in the USMC category, write my
+  reports.
+- Explore the future of my career, and determine what would be valuable 10, 20, 30
+  years from now.
+- Build a discipline / protocol for accepting tasks and granting your word; it may
+  help with focusing your task accomplishment, and gaining new ones. This may integrate
+  with "A message for Garcia".
+- It may be difficult organizing your goals with your command - reading MFAIP may help
+  you gain tact when dealing with difficult situations, requiring flexibility.
+  
+Productivity
+-------------
+
+
+
 
 [Previous Page](./introduction.md) - [Next Page](./weeklygoals.md)
+
+
+
+
+
+
+
+
+
+
+

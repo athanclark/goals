@@ -5,8 +5,8 @@ Having a clear image in your mind for what you want out of life is
 important; otherwise, we'd never actually get what we want, because we
 don't know what we're chasing. It's also very easy to get distracted
 from the image you've envisioned, because there's nothing concrete
-holding you accountable for the steps you take to get to that end result
-- as a result, we find ourselves sidetracked with meaningless nonsense
+holding you accountable for the steps you take to get to that end result -
+as a result, we find ourselves sidetracked with meaningless nonsense
 when we actually really wanted to spend our years doing something
 productive.
 
