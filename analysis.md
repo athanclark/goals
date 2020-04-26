@@ -150,7 +150,7 @@ right thing is a step closer to wisdom.
     COOL compatible), and an associates degree.
   - take English 1 & 2
 
-- Set up a personal Gantt chart - both time-dependent, and independent
+- Set up a personal Gantt chart - both time-dependent, and independent - use pgfgantt
   
   - learning more about project management may help here - Agile and PMI may
     provide valuable utility.
