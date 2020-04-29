@@ -1,15 +1,15 @@
 Primary Concerns
 ================
 
-The following chapter aims to organize the previous thoughts more
-productively, and categorize them in a natural manner. Some of these
+Now I aim to organize the previous thoughts,
+and categorize them in a natural manner. Some of these
 will be duplicates for each section - that's okay, because some of
 these concepts are very general.
 
 USMC Related
 ------------
 
-Here are some ideas that are specific to the Corps:
+Some ideas that are specific to the Marine Corps:
 
 -   List your goals for your USMC tenure
 
@@ -65,7 +65,7 @@ Some goals and questions regarding your societal impact:
 Personal
 --------
 
-The following are some goals regarding your own personal journey, and
+Goals regarding your own personal journey, and
 formulating the right path:
 
 -   SMART goals - short term and long term
@@ -110,8 +110,7 @@ formulating the right path:
 Productivity
 ------------
 
-Here are some questions to help you maintain productivity in the path
-you set.
+Maintain productivity in the path you set:
 
 -   SMART goals - short term and long term
 
@@ -139,15 +138,15 @@ General Ideas
 Generally speaking, there are four major categories for the ideas just
 discussed:
 
--   USMC Related - How I will spend my next four years in the Corps,
-    and how I can change it, and likewise how it could change me.
+-   USMC Related - How will I spend my next four years in the Corps,
+    how I can change it, and likewise how it could change me?
 
--   Interpersonal - How I could improve my professional and personal
+-   Interpersonal - How could I improve my professional and personal
     relationships with people; work better, be trustworthy, and gain
-    more trust from people (where deserved).
+    more trust from people (where deserved)?
 
--   Personal - How I should decide the value and importance of certain
-    goals; I should be capable of deciding which ones are worth
+-   Personal - How should I decide the value and importance of certain
+    goals? I should be capable of deciding which ones are worth
     prioritizing over others, whether personal or Corps related.
 
 -   Productivity - I should always be trying to improve my workflow

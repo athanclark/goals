@@ -1,30 +1,31 @@
 Analysis
 ========
 
-Here, I'll divulge into specific goals after digressing on the value of
+Now I'll divulge into specific goals, after digressing on the value of
 the statements made in the previous chapter.
 
 USMC Related
 ------------
 
 There are some very specific goals I'd like to achieve in my first (and
-possibly, only) enlistment - some of them for glory, and some
+possibly, only) enlistment - some of them for pride, and some
 cathartic; but overall, I would like to see myself successful in this
-organization. A lot of it stems from the pride of my family, but a lot
-comes from myself as well; joining the USMC feels like the best thing
-I've ever done for myself (on good days...on bad, it feels like the
-worst).
+organization. A lot of my motivation stems from the pride of my family, but in truth
+it's personal as well; joining the USMC feels like the best thing
+I've ever done for myself.
 
-At any rate, being proud of my uniform and my belonging are fundamental
+At any rate, being proud of my uniform and unit are fundamental
 to my presence in the Corps, and I'll need to keep those values strong.
 
+### Goals
+
 -   Reach the rank of Sergeant - My cousin is a Sergeant, but that's
-    not why I want to be one...I feel like its your *responsibility* as
+    not why I want to be one... I feel like its a *responsibility* for the
     enlisted to reach that rank; to be a *servant* to the Corps (and a
     valued one, at that).
 
 -   Achieve an associates degree in computer science and electrical
-    engineering - I already know so much about these fields, that they
+    engineering - I already know so much about these fields, so they
     should be pretty easy to get. But, they would both be very valuable
     to my unit, and to myself. Likewise, they can be used in promotion
     boards, and generally speaking, would set me apart from many others.
@@ -46,7 +47,7 @@ to my presence in the Corps, and I'll need to keep those values strong.
     behind, so I better play catch-up!
 
 -   I should take English 1 & 2 - GySgt Joiner gave us really good
-    advice at the end of MAEMC...I shouldn't pass that by.
+    advice at the end of MAEMC... I shouldn't pass that by.
 
 -   I should have a ledger of impressionable material - not
     specifically awards or letters of appreciation, but a record of my
@@ -60,7 +61,7 @@ to my presence in the Corps, and I'll need to keep those values strong.
 -   Buy a car - it will be hard getting around without a vehicle, and
     owning one would get me a lot of freedom.
 
--   Bolster your TSP - a retirement fund will be necessary 15 years
+-   Bolster your TSP - a retirement fund will be necessary 20 years
     from now; I would be foolish to waste that opportunity.
 
 -   Save enough money to fund a company - this will be very difficult,
@@ -81,8 +82,10 @@ own, and everyone has had some help at some point in their journey.
 Working with other people is essential to succeeding in any endeavor;
 military or otherwise. In order to achieve my long-term goal of starting
 a business, I'll have to master the art of working with other people,
-but before that, I'll need to inspire my Marines, and my chain of
+but before that, I'll need to inspire my Marines, and earn my chain of
 command's trust.
+
+### Goals
 
 -   Be admired - I want people to respect me for my proficiency and
     conduct; my character should inspire excellence in every respect.
@@ -95,7 +98,7 @@ command's trust.
     leadership traits and principals, and your general orders.
 
 -   Know how to approach people - there are probably a lot of skills
-    hidden in the book "how to make friends and influence people\".
+    hidden in the book "How to Win Friends and Influence People\".
 
 -   Earn your reputation - I don't want to force people into having a
     preconception about me; I want everyone to learn who I am through
@@ -133,10 +136,13 @@ Personal
 Doing things well is a good trait, but knowing that you're doing the
 right thing is a step closer to wisdom.
 
+### Goals
+
 - I'd like to build and own a company some day. What that company is
   and does, however, that is up for debate. But, I've been striving to
   do so for a very long time, and I have the potential to make it a reality;
   it would be a shame to miss out on an opportunity to do so.
+
 - However, before I shoot for the stars, I need to ground myself and build
   a solid foundation - I need to do the following before anything else:
 
@@ -159,22 +165,29 @@ right thing is a step closer to wisdom.
   or anything like that, but rather build habits and discipline that makes
   you proud of yourself; so you can be sure you didn't let yourself down.
   Maybe schedule self-help sessions.
+
 - Determine how far you've come - do an audit of your past; your failures,
   and equally importantly, your successes. Figure out how you can utilize your
   habits to build a better future.
+  
 - Determine what is required of you on a time-based schedule, and decide what is worth
   sacrificing; putting off what can be delayed, and what is required and not optional.
+
 - Determine what moderate goals, as extracurricular non-precedent activities, could be
   integrated into my goal-planning lifestyle to better acclimate to the scheduling
   techniques.
-- Read "making friends and influencing people", in addition to many others - make my
+
+- Read "How to Win Friends and Influence People", in addition to many others - make my
   own reading list, and abide by it. Furthermore, as in the USMC category, write my
   reports.
+
 - Explore the future of my career, and determine what would be valuable 10, 20, 30
   years from now.
+
 - Build a discipline / protocol for accepting tasks and granting your word; it may
   help with focusing your task accomplishment, and gaining new ones. This may integrate
   with "A message for Garcia".
+
 - It may be difficult organizing your goals with your command - reading MFAIP may help
   you gain tact when dealing with difficult situations, requiring flexibility.
   
