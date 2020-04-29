@@ -9,7 +9,7 @@ April 2020
 - [x] ~~Restock on hygiene and cleaning supplies~~ 20200420
 - [ ] Save some money
 - [x] ~~Pay off Puget Sound completely~~ 20200420
-- [ ] Start payments for Cliffs Apartments
+- [x] ~~Start payments for Cliffs Apartments~~ 20200429
 - [ ] Learn liberty policies etc.
 - [ ] Get 5 sessions at the gym
 

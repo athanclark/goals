@@ -26,15 +26,15 @@ Weekly Goals
 - [ ] Get your bearings for where everything is located
 - [ ] GCSS routine?
 - [ ] Learn the routine
-- [ ] Find out expectations, and adhere to them
+- [x] ~~Find out expectations, and adhere to them~~ 20200429
 
 ---------------
 
 - [ ] Fix up mountain bike and become mobile
-- [ ] Get either a mailbox, or a method for receiving mail
+- [x] ~~Get either a mailbox, or a method for receiving mail~~ 20200428
 - [ ] Restore all dependencies that rely on zeta
 - [ ] Contribute more fundamental dependencies to package-sets
-- [ ] Finish check-in process
+- [x] ~~Finish check-in process~~ 20200429
 - [ ] Verify meritorious promotion & certificates of commendation are in MOL by May 1
 
 
