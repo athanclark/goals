@@ -32,8 +32,8 @@ Weekly Goals
 
 - [ ] Fix up mountain bike and become mobile
 - [x] ~~Get either a mailbox, or a method for receiving mail~~ 20200428
-- [ ] Restore all dependencies that rely on zeta
-- [ ] Contribute more fundamental dependencies to package-sets
+- [x] ~~Restore all dependencies that rely on zeta~~ 20200429
+- [x] ~~Contribute more fundamental dependencies to package-sets~~ 20200429
 - [x] ~~Finish check-in process~~ 20200429
 - [ ] Verify meritorious promotion & certificates of commendation are in MOL by May 1
 
