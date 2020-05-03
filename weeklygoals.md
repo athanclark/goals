@@ -37,6 +37,28 @@ Weekly Goals
 - [x] ~~Finish check-in process~~ 20200429
 - [ ] Verify meritorious promotion & certificates of commendation are in MOL by May 1
 
+20200503
+--------
+
+### Unfinished Last Week
+
+- [ ] Finish this document
+- [ ] Meet everyone in the shop
+- [ ] Get your bearings for where everything is located
+- [ ] GCSS routine?
+- [ ] Learn the routine
+- [ ] Fix up mountain bike and become mobile
+- [ ] Verify meritorious promotion & certificates of commendation are in MOL by May 1
+
+---------------
+
+- [ ] Learn "Task Matrix"
+- [ ] Get GCSS Access
+- [ ] Resolve LocalCooking Legal Zoom LLC shenanigans
+- [ ] Talk to Navy Federal
+- [ ] Solve overheating issue with laptop
+- [ ] Sort out Technical and User-level documents with OpenChronology
+
 
 
 [Previous Page](./analysis.md) - [Next Page](./monthlygoals.md)
