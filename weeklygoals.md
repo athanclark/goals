@@ -44,20 +44,20 @@ Weekly Goals
 
 - [ ] Finish this document
 - [ ] Meet everyone in the shop
-- [ ] Get your bearings for where everything is located
-- [ ] GCSS routine?
+- [x] ~~Get your bearings for where everything is located~~ 20200505
+- [x] ~~GCSS routine?~~ 20200504
 - [ ] Learn the routine
 - [ ] Fix up mountain bike and become mobile
 - [ ] Verify meritorious promotion & certificates of commendation are in MOL by May 1
 
 ---------------
 
-- [ ] Learn "Task Matrix"
-- [ ] Get GCSS Access
+- [x] ~~Learn "Task Matrix"~~ 20200505
+- [x] ~~Get GCSS Access~~ 20200504
 - [ ] Resolve LocalCooking Legal Zoom LLC shenanigans
 - [ ] Talk to Navy Federal
 - [ ] Solve overheating issue with laptop
-- [ ] Sort out Technical and User-level documents with OpenChronology
+- [x] ~~Sort out Technical and User-level documents with OpenChronology~~ 20200505
 
 
 
