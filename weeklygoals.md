@@ -59,6 +59,26 @@ Weekly Goals
 - [ ] Solve overheating issue with laptop
 - [x] ~~Sort out Technical and User-level documents with OpenChronology~~ 20200505
 
+20200510
+--------
+
+### Unfinished Last Week
+
+- [ ] Finish this document
+- [ ] Meet everyone in the shop
+- [ ] Learn the routine
+- [ ] Fix up mountain bike and become mobile
+- [ ] Verify meritorious promotion & certificates of commendation are in MOL by May 1
+- [ ] Resolve LocalCooking Legal Zoom LLC shenanigans
+- [ ] Talk to Navy Federal
+- [ ] Solve overheating issue with laptop
+
+---------------
+
+- [ ] Get Driver's License
+- [ ] Math for Marines
+- [ ] Run a circuit
+
 
 
 [Previous Page](./analysis.md) - [Next Page](./monthlygoals.md)
