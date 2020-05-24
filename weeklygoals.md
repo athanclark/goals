@@ -65,12 +65,12 @@ Weekly Goals
 ### Unfinished Last Week
 
 - [ ] Finish this document
-- [ ] Meet everyone in the shop
+- [x] ~~Meet everyone in the shop~~ 20200522
 - [ ] Learn the routine
 - [ ] Fix up mountain bike and become mobile
-- [ ] Verify meritorious promotion & certificates of commendation are in MOL by May 1
+- [x] ~~Verify meritorious promotion & certificates of commendation are in MOL by May 1~~ 20200523
 - [ ] Resolve LocalCooking Legal Zoom LLC shenanigans
-- [ ] Talk to Navy Federal
+- [x] ~~Talk to Navy Federal~~ 20200524
 - [ ] Solve overheating issue with laptop
 
 ---------------
@@ -78,6 +78,28 @@ Weekly Goals
 - [ ] Get Driver's License
 - [ ] Math for Marines
 - [ ] Run a circuit
+
+20200524
+--------
+
+### Unfinished Last Week
+
+- [ ] Finish this document
+- [ ] Learn the routine
+- [ ] Fix up mountain bike and become mobile
+- [ ] Resolve LocalCooking Legal Zoom LLC shenanigans
+- [ ] Solve overheating issue with laptop
+- [ ] Get Driver's License
+- [ ] Math for Marines
+- [ ] Run a circuit
+
+--------------
+
+- [ ] Get non-owner's car insurance
+- [ ] Get a new phone
+- [ ] Set-up direct deposit for navy fed
+- [ ] Get a USAA account
+
 
 
 
