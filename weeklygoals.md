@@ -97,7 +97,7 @@ Weekly Goals
 
 - [ ] Get non-owner's car insurance
 - [x] ~~Get a new phone~~ 20200527
-- [ ] Set-up direct deposit for navy fed
+- [x] ~~Set-up direct deposit for navy fed~~ 20200528
 - [x] ~~Get a USAA account~~ 20200528
 
 
