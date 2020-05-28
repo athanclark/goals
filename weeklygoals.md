@@ -88,7 +88,7 @@ Weekly Goals
 - [ ] Learn the routine
 - [ ] Fix up mountain bike and become mobile
 - [ ] Resolve LocalCooking Legal Zoom LLC shenanigans
-- [ ] Solve overheating issue with laptop
+- [x] ~~Solve overheating issue with laptop~~ 20200526
 - [ ] Get Driver's License
 - [ ] Math for Marines
 - [ ] Run a circuit
@@ -96,9 +96,9 @@ Weekly Goals
 --------------
 
 - [ ] Get non-owner's car insurance
-- [ ] Get a new phone
+- [x] ~~Get a new phone~~ 20200527
 - [ ] Set-up direct deposit for navy fed
-- [ ] Get a USAA account
+- [x] ~~Get a USAA account~~ 20200528
 
 
 
