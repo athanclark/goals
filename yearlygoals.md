@@ -5,7 +5,7 @@ Yearly Goals
 ----
 
 - [ ] Find some good friends
-- [ ] Go to the beach, see what's around
+- [x] ~~Go to the beach, see what's around~~ 20200531
 - [ ] Get over 280 on a PFT
 - [ ] Buy some good boots
 - [ ] Get your programming workstation in-order

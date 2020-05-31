@@ -86,7 +86,7 @@ Weekly Goals
 
 - [ ] Finish this document
 - [ ] Learn the routine
-- [ ] Fix up mountain bike and become mobile
+- [x] ~~Fix up mountain bike and become mobile~~ 20200530
 - [ ] Resolve LocalCooking Legal Zoom LLC shenanigans
 - [x] ~~Solve overheating issue with laptop~~ 20200526
 - [ ] Get Driver's License
