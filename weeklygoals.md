@@ -85,7 +85,7 @@ Weekly Goals
 ### Unfinished Last Week
 
 - [ ] Finish this document
-- [ ] Learn the routine
+- [x] ~~Learn the routine~~ 20200531
 - [x] ~~Fix up mountain bike and become mobile~~ 20200530
 - [ ] Resolve LocalCooking Legal Zoom LLC shenanigans
 - [x] ~~Solve overheating issue with laptop~~ 20200526
@@ -99,6 +99,25 @@ Weekly Goals
 - [x] ~~Get a new phone~~ 20200527
 - [x] ~~Set-up direct deposit for navy fed~~ 20200528
 - [x] ~~Get a USAA account~~ 20200528
+
+20200531
+--------
+
+### Unfinished Last Week
+
+- [ ] Finish this document
+- [ ] Resolve LocalCooking Legal Zoom LLC shenanigans
+- [ ] Get Driver's License
+- [ ] Math for Marines
+- [ ] Run a circuit
+- [ ] Get non-owner's car insurance
+
+----------------
+
+- [ ] Get a NC Real ID
+- [ ] Ruggedize the bike
+- [ ] Finish Lance Seminar Package
+
 
 
 

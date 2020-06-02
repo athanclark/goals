@@ -33,6 +33,23 @@ May 2020
 - [x] ~~Document thoroughly the architecture of OC - dependency graphs for modules, signals & queues, and terms~~ 20200506
 - [x] ~~Finish and test-out of Leading Marines~~ 20200515
 
+June 2020
+---------
+
+### Unfinished Last Month
+
+- [ ] Get some good workouts in
+- [ ] Save some money - start at $400
+- [ ] Get 5 sessions at the gym
+- [ ] Run at least 5 miles in one session
+- [ ] Reduce take-out meals to 10 times only
+
+-------------
+
+- [ ] Get a credit card, and close FrontWave accounts
+- [ ] Access USAA account
+- [ ] Collections debt down to $2k
+- [ ] Finish Rifleman Dodd book report
 
 
 [Previous Page](./weeklygoals.md) - [Next Page](./quarterlygoals.md)
