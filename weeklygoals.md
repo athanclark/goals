@@ -109,7 +109,7 @@ Weekly Goals
 - [ ] Resolve LocalCooking Legal Zoom LLC shenanigans
 - [ ] Get Driver's License
 - [ ] Math for Marines
-- [ ] Run a circuit
+- [x] ~~Run a circuit~~ 20200610
 - [ ] Get non-owner's car insurance
 
 ----------------

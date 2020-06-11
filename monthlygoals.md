@@ -41,7 +41,7 @@ June 2020
 - [ ] Get some good workouts in
 - [ ] Save some money - start at $400
 - [ ] Get 5 sessions at the gym
-- [ ] Run at least 5 miles in one session
+- [x] ~~Run at least 5 miles in one session~~ 10 baby! 20200610
 - [ ] Reduce take-out meals to 10 times only
 
 -------------
