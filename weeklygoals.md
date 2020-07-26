@@ -114,11 +114,29 @@ Weekly Goals
 
 ----------------
 
-- [ ] Get a NC Real ID
-- [ ] Ruggedize the bike
-- [ ] Finish Lance Seminar Package
+- [x] Get a NC Real ID
+- [x] Ruggedize the bike
+- [x] Finish Lance Seminar Package
 
+20200726
+--------
 
+### Unfinished Last Week
+
+- [ ] Finish this document
+- [ ] Resolve LocalCooking Legal Zoom LLC shenanigans
+- [ ] Get Driver's License
+- [ ] Math for Marines
+- [x] ~~Run a circuit~~ 20200610
+- [ ] Get non-owner's car insurance
+
+----------------
+
+- [ ] Get keys for Cpl Lacey's car, and prepare to own title & registration
+- [ ] See if you can actually take Math for Marines before mothly counseling
+- [ ] Finish leave request for Aug 12 - 19
+- [ ] Pay off student loan with Dad's life insurance cash-out
+- [ ] Get purescript-timeline stable, and well-documented
 
 
 

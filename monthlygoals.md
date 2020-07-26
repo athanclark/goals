@@ -51,5 +51,23 @@ June 2020
 - [ ] Collections debt down to $2k
 - [ ] Finish Rifleman Dodd book report
 
+July 2020
+---------
+
+### Unfinished Last Month
+
+- [x] Get some good workouts in
+- [x] Save some money - start at $400
+- [ ] Get 5 sessions at the gym
+- [x] ~~Run at least 5 miles in one session~~ 10 baby! 20200610
+- [ ] Reduce take-out meals to 10 times only
+
+-------------
+
+- [x] Get a credit card, and close FrontWave accounts
+- [x] Access USAA account
+- [ ] Collections debt down to $2k
+- [ ] Finish Rifleman Dodd book report
+
 
 [Previous Page](./weeklygoals.md) - [Next Page](./quarterlygoals.md)
